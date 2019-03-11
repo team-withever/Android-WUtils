@@ -1,4 +1,4 @@
-package com.withever.wutils
+package com.withever.wutils.example
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
