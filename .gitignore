@@ -9,3 +9,8 @@
 app/src/androidTest/
 app/src/test/
 .idea/Android-WUtils.iml
+build/
+src/androidTest/
+src/main/java/com/withever/wutils/base/
+src/main/res/drawable/
+src/test/
