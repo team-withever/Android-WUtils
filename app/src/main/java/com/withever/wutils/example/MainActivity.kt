@@ -26,4 +26,5 @@ class MainActivity : AppCompatActivity() {
     private fun showToast() {
         toast("Toast Test")
     }
+
 }
